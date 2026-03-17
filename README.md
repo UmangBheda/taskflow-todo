@@ -19,17 +19,17 @@ TaskFlow Todo is a clean and user-friendly React application designed to help yo
 - React
 - JavaScript (JSX)
 - CSS
-
-
-##📂 Project Structure
-\taskflow-todo
+## 📂 Project Structure
+taskflow-todo/
 ├── index.html
 ├── metadata.json
 ├── package.json
 ├── README.md
-├── src
+├── src/
 ├── tsconfig.json
 └── vite.config.ts
+
+
 
 ## 📦 Installation
 
