@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow Todo",
+  "description": "A sleek, modern todo list app with local storage persistence and smooth animations.",
+  "requestFramePermissions": []
+}
